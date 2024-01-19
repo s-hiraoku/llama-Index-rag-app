@@ -29,7 +29,7 @@ openai==1.6.1
 packaging==23.2
 pandas==2.1.4
 pydantic==2.5.3
-pydantic_core==2.14.6
+pydantic_core==2.16.1
 python-dateutil==2.8.2
 python-env==1.0.0
 pytz==2023.3.post1
