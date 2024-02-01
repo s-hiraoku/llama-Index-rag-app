@@ -20,7 +20,7 @@ idna==3.6
 joblib==1.3.2
 llama-index==0.9.36
 marshmallow==3.20.2
-multidict==6.0.4
+multidict==6.0.5
 mypy-extensions==1.0.0
 nest-asyncio==1.6.0
 nltk==3.8.1
