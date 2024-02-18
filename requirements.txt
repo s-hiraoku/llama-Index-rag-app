@@ -45,6 +45,6 @@ tqdm==4.66.1
 typing-inspect==0.9.0
 typing_extensions==4.9.0
 tzdata==2023.4
-urllib3==2.1.0
+urllib3==2.2.1
 wrapt==1.16.0
 yarl==1.9.4
